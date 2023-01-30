@@ -6,7 +6,7 @@
  - Enjoy!
 
 ## Example
- - Example 
+ - Example: https://github.com/Infinite-Coder-001/First/blob/main/example.html
 
 ## Features
 ### Changing innerHTML
